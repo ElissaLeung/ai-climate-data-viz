@@ -3,7 +3,7 @@
 
 **Background**
 
-The IEA mentions that one ChatGPT request uses 2.9 watt-hours of electricity nearly three times the amount of a Google search (0.3 watt-hours). Currently, most global energy production relies heavily on fossil fuels. So, as energy consumption rises, carbon emissions rise as well. This causes concerns as the demand for artificial intelligence (AI) continues to soar, leading to a larger carbon footprint.
+The International Energy Agency (IEA) mentions that one ChatGPT request uses 2.9 watt-hours of electricity nearly three times the amount of a Google search (0.3 watt-hours). Currently, most global energy production relies heavily on fossil fuels. So, as energy consumption rises, carbon emissions rise as well. This causes concerns as the demand for artificial intelligence (AI) continues to soar, leading to a larger carbon footprint.
 
 **Our Project**
 
