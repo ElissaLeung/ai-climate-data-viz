@@ -1,4 +1,5 @@
-# ai-climate-data-viz
+# The Hidden Costs of AI: Impact on Climate
+## Elissa, Dani, Yangjee
 
 **Background**
 
